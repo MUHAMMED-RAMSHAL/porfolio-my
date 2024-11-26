@@ -23,6 +23,6 @@ const MyWork = () => {
       
     </div>
   )
-}
+};
 
-export default MyWork
+export default MyWork;
